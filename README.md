@@ -75,7 +75,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **전상균 ** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **전상균 ** - *Initial work* - [rock8181](https://github.com/rock8181)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
