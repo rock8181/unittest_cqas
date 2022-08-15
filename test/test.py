@@ -1,5 +1,9 @@
 
+import sys, os
+sys.path.append(os.path.dirname(os.path.abspath(os.path.dirname(__file__))))
+
 import unittest
+from project import Smartphone
 
 def custom_function(file_name):
     with open(file_name, 'rt') as f:
@@ -21,6 +25,7 @@ class CustomTests(unittest.TestCase):
 
 # unittest를 실행
 if __name__ == '__main__':  
+    print(dir(unittest))
     unittest.main()
 
 

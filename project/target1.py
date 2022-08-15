@@ -56,7 +56,6 @@ print(Smartphone2.get_price())
 
 # 가격 인상(클래스 메소드 미사용)
 # 이렇게 직접 접근은 좋지 않아요.
-print(Smartphone.price_per_raise2)
 Smartphone.price_per_raise = 1.2
 Smartphone.price_per_raise2 = 1.2
 

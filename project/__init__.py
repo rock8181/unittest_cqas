@@ -1,0 +1,1 @@
+from .target1 import Smartphone
